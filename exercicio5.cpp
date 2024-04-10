@@ -12,7 +12,7 @@ int main(){
     switch (operador)
     {
     case '+':
-            printf("Resultado: %.2\n"lf, valor1 + valor2);
+            printf("Resultado: %.2lf\n", valor1 + valor2);
         break;
          
          case '-':
